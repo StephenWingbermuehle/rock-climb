@@ -8,6 +8,6 @@ public class MyTest {
 
 	@Test
 	public void test() {
-		assertEquals("True is true", true, true);
+		assertEquals("True is definitely true", true, true);
 	}
 }
