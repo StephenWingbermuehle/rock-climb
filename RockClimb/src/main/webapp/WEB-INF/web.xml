@@ -3,7 +3,7 @@
   <display-name>RockClimb</display-name>
   <servlet>
   	<servlet-name>hello</servlet-name>
-  	<servlet-class></servlet-class>
+  	<servlet-class>com.revature.servlet.HelloServlet</servlet-class>
   </servlet>
   <servlet-mapping>
   	<servlet-name>hello</servlet-name>
